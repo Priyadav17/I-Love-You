@@ -1,26 +1,3 @@
-//Changing image
-// function hover(element) {
-//     element.setAttribute('src', 'Assets/sad.gif');
-// }
-  
-// function unhover(element) {
-//     element.setAttribute('src', 'Assets/hi.gif');
-// }
-
-
-
-//Changing background
-// var button = document.getElementById('hover');
-// var body = document.body;
-
-// button.onmouseover = function() {
-// 	body.className = 'hovered';
-// }
-
-// button.onmouseout = function() {
-// 	body.className = '';
-// }
-
 
 //Changing gif
 const img = document.getElementById('image');
