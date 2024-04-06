@@ -1,9 +1,6 @@
-<p align="right">
-    <img height="40px" width="40px" src="Assets\RS LOGO.png" />
-</p>
-<p align="center">
-  <img src="Assets/Preview.png"  />
-</p>
+"To adore your loved one"
+  
+"Are you facing a relentless rejection from the one you adore?" ,just send this to her!
 
 
 ### But... I Love You
